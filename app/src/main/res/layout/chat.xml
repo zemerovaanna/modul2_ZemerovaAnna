@@ -9,9 +9,11 @@
         android:id="@+id/ChatName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Name Chat"
+        android:text="@string/name_chat"
+        android:textSize="16dp"
         android:textColor="@color/white"
-        android:textAlignment="center"/>
+        android:textAlignment="center"
+        android:fontFamily="@font/robotocondensed_regular" />
 
     <LinearLayout
         android:layout_width="match_parent"

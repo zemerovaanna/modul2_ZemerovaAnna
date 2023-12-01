@@ -10,4 +10,9 @@
     <string name="title_activity_presentation._main">presentation.MainActivity</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="complication_label">Example complication</string>
+    <string name="discussion">Обсуждения</string>
+    <string name="title_new">Новое</string>
+    <string name="sign_in">Войти</string>
+    <string name="name_chat">Name Chat</string>
+    <string name="name">Name</string>
 </resources>
